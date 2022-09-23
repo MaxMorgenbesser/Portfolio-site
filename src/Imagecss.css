@@ -1,14 +1,16 @@
 #headshot{
     width: 50vw;
+    position: relative;
+    object-fit: cover;
 
- 
 }
 
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 900px) {
     #headshot {
-    width: 110vw;
- 
-   
+    width: 100vw;
+
     }
   }
+
+ 
