@@ -1,0 +1,14 @@
+#headshot{
+    width: 50vw;
+
+ 
+}
+
+
+@media screen and (max-width: 1000px) {
+    #headshot {
+    width: 110vw;
+ 
+   
+    }
+  }

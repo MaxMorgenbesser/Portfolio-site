@@ -1,0 +1,21 @@
+#aboutdiv{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    width: 100vw;
+    margin-left: 30px;
+    
+}
+
+#abt-text{
+    display: flex;
+    flex-direction: column;
+}
+
+h4{
+    margin-top: 0;
+}
+h5{
+    margin-top: 0;
+    margin-bottom: 0;
+}
